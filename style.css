@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(241, 233, 157);
+    margin-left:0px;
+}
+
+.mainHeading {
+    text-align:center;
+    text-decoration:underline;
+}
+
+.heading2,.container{
+    margin-top:50px;
+    text-align:center;
+}
+
+.container{
+    font-size:20px;
+}
+
+.result{
+    text-align:center;
+}
